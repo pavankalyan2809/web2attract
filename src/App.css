@@ -1,0 +1,13 @@
+.header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #fffdfd;
+  color: white;
+  text-align: center;
+  padding: 1rem 0;
+  z-index: 1000; /* Ensure it stays above other content */
+}
+.LivingRoomDesigns{
+  margin-top: 200px;
+}
